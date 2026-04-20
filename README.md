@@ -22,11 +22,6 @@ InternPortal is a web application where mentors assign projects and interns subm
 https://internportal.infinityfreeapp.com/
 
 
-5. **Open the project in a browser**:  
-    - http://localhost/internportal
-
-
-
 
 ## Usage
 1. **Register** as a new user (intern or mentor).  
